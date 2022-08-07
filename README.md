@@ -8,7 +8,6 @@ At the moment, I'm investigating how much **energy** programming languages consu
 
 I'm passionate about data visualization and software insights. I'm attempting to give a set of indicators and KPIs to assist developers in increasing the performance of their code while decreasing its energy usage.
 
-Feel free to check my blog [chakib-belgaid.github.io](https://chakib-belgaid.github.io)
 
 <!-- I joined GitHub on `{{ f.date(REGISTRATION_DATE, {date:true}) }}`.
 Since then, I've contributed to `{{ REPOSITORIES_CONTRIBUTED_TO }}` repositories and made `{{ COMMITS }}` commits. -->
