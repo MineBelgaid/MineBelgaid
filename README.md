@@ -15,7 +15,7 @@ Since then, I've contributed to `19` repositories and made `205` commits. -->
 ___
 # My Activities in a Nutshell 
 
-<img src="https://github.com/chakib-belgaid/chakib-belgaid/blob/main/.cache/example-base-pdf.svg">
+<img src="https://github.com/MineBelgaid/MineBelgaid/blob/main/.cache/example-base-pdf.svg">
 
 <!-- **[📌 Starred topics](https://github.com/chakib-belgaid?tab=stars)** -->
 ___
@@ -24,7 +24,8 @@ ___
 ___
 
 # 🏆 Achievements
-<img src="https://github.com/chakib-belgaid/chakib-belgaid/blob/main/.cache/example-achievements-pdf.svg">
+<!-- <img src="https://github.com/chakib-belgaid/chakib-belgaid/blob/main/.cache/example-achievements-pdf.svg"> -->
+<img src="https://github.com/MineBelgaid/MineBelgaid/blob/main/.cache/example-base-pdf.svg">
 ___
 
 # History of my contributions 
