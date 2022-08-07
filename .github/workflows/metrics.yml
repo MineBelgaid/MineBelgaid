@@ -29,23 +29,23 @@ jobs:
                       https://raw.githubusercontent.com/chakib-belgaid/chakib-belgaid/main/base_template.md
                   config_output: markdown
                   markdown_cache: .cache
-                  # plugin_activity: yes
-                  # plugin_activity_limit: 7
-                  # plugin_activity_days: 0
-                  # plugin_activity_filter: issue, pr, release, fork, review, ref/create
-                  # plugin_posts: yes
-                  # plugin_posts_source: dev.to
-                  # plugin_posts_descriptions: yes
-                  # plugin_posts_covers: yes
-                  # plugin_posts_limit: 2
-                  # plugin_rss: yes
-                  # plugin_rss_source: https://news.ycombinator.com/rss
-                  # plugin_rss_limit: 4
-                  # plugin_tweets: yes
-                  # plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
-                  # plugin_tweets_user: github
-                  # plugin_tweets_attachments: yes
-                  # plugin_tweets_limit: 2
+                  plugin_activity: yes
+                  plugin_activity_limit: 7
+                  plugin_activity_days: 0
+                  plugin_activity_filter: issue, pr, release, fork, review, ref/create
+                  plugin_posts: yes
+                  plugin_posts_source: dev.to
+                  plugin_posts_descriptions: yes
+                  plugin_posts_covers: yes
+                  plugin_posts_limit: 2
+                  plugin_rss: yes
+                  plugin_rss_source: https://news.ycombinator.com/rss
+                  plugin_rss_limit: 4
+                  plugin_tweets: yes
+                  plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
+                  plugin_tweets_user: github
+                  plugin_tweets_attachments: yes
+                  plugin_tweets_limit: 2
                   plugin_achievements: yes
                   plugin_achievements_display: compact
                   plugin_topics: yes
