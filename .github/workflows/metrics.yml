@@ -25,6 +25,8 @@ jobs:
               with:
                   template: markdown
                   filename: README.md
+                  markdown: >-
+                      https://raw.githubusercontent.com/chakib-belgaid/chakib-belgaid/main/base_template.md
                   config_output: markdown
                   markdown_cache: .cache
                   # plugin_activity: yes
