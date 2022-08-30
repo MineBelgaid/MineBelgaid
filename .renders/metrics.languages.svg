@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="362.8839123507483" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="362.8839123507483" y="0" width="21.407525364417456" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="384.2914377151657" y="0" width="20.441975940971332" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="404.73341365613703" y="0" width="18.41046786027957" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="423.1438815164166" y="0" width="11.17368975574878" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="434.3175712721654" y="0" width="10.014832791641387" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="444.3324040638068" y="0" width="8.170504916477462" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="452.5029089802843" y="0" width="7.497091019715754" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="362.0522399257145" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="362.0522399257145" y="0" width="21.449373280368615" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="383.50161320608316" y="0" width="21.35846270848856" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="404.8600759145717" y="0" width="18.36827398524064" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="423.2283498998124" y="0" width="11.148081429395761" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="434.3764313292081" y="0" width="9.991880381819257" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="444.3683117110274" y="0" width="8.151779413895607" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="452.520091124923" y="0" width="7.47990887507706" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -46,12 +46,12 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#00B4AB" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                JavaScript
+                                Dart
                             </div>
                             <small>
-                                <div>103 kB</div>
+                                <div>108 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -81,9 +81,9 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#00B4AB" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Dart
+                                JavaScript
                             </div>
                             <small>
                                 <div>108 kB</div>
