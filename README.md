@@ -3,8 +3,8 @@
 Automating boring tasks is my passion, and developing useful solutions is my goal.
 
 
-I joined GitHub on `{{ f.date(REGISTRATION_DATE, {date:true}) }}`.
-Since then, I've contributed to `{{ REPOSITORIES_CONTRIBUTED_TO }}` repositories and made `{{ COMMITS }}` commits.
+I joined GitHub on {{ f.date(REGISTRATION_DATE, {date:true}) }}.
+Since then, I've contributed to {{ REPOSITORIES_CONTRIBUTED_TO }} repositories and made {{ COMMITS }} commits.
 
 ___
 
