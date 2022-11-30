@@ -1,6 +1,9 @@
 # Hi there 👋
-⚙️⚙️⚙️⚙️⚙️\n
+
+🤖🤖🤖🤖🤖
+
 Automating boring tasks is my passion, and developing useful solutions is my goal.
+
 
 
 
