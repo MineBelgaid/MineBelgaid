@@ -1,16 +1,10 @@
 # Hi there 👋
-
-🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱
-
-At the moment, I'm investigating how much **energy** programming languages consume. I provide tools to measure the energy usage of a software, a function, or just a few lines of code.
-
-**GREEN CODING** is my signature
-
-I'm passionate about data visualization and software insights. I'm attempting to give a set of indicators and KPIs to assist developers in increasing the performance of their code while decreasing its energy usage.
+⚙️⚙️⚙️⚙️⚙️
+Automating boring tasks is my passion, and developing useful solutions is my goal.
 
 
-<!-- I joined GitHub on `{{ f.date(REGISTRATION_DATE, {date:true}) }}`.
-Since then, I've contributed to `{{ REPOSITORIES_CONTRIBUTED_TO }}` repositories and made `{{ COMMITS }}` commits. -->
+I joined GitHub on `{{ f.date(REGISTRATION_DATE, {date:true}) }}`.
+Since then, I've contributed to `{{ REPOSITORIES_CONTRIBUTED_TO }}` repositories and made `{{ COMMITS }}` commits.
 
 ___
 
