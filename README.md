@@ -1,11 +1,8 @@
 # Hi there 👋
-⚙️⚙️⚙️⚙️⚙️
+⚙️⚙️⚙️⚙️⚙️\n
 Automating boring tasks is my passion, and developing useful solutions is my goal.
 
 
-<!-- template -->
-I joined GitHub on `{{ f.date(REGISTRATION_DATE, {date:true}) }}`.
-I contributed to `{{ REPOSITORIES_CONTRIBUTED_TO }}` repositories and made `{{ COMMITS }}` commits.
 
 <!-- render -->
 I joined GitHub on `20 Oct 2016`.
