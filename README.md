@@ -7,9 +7,6 @@ Automating boring tasks is my passion, and developing useful solutions is my goa
 
 
 
-<!-- render -->
-I joined GitHub on `20 Oct 2016`.
-I contributed to `37` repositories and made `5947` commits.
 
 ___
 
